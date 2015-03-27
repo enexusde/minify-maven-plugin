@@ -54,6 +54,8 @@ Configure your project's `pom.xml` to run the plugin during the project's build 
 </build>
 ```
 
+By default the `src/main/webapp/css` is used to find css-files and `src/main/webapp/js` is used for scripts by default.
+
 For more information, check the [plugin documentation](http://samaxes.github.com/minify-maven-plugin/) or the [demo application](https://github.com/samaxes/minify-maven-plugin/releases/download/minify-maven-plugin-1.7.4/minify-maven-plugin-demo-1.7.4-src.zip).
 
 ## System Requirements
